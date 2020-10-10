@@ -1,0 +1,79 @@
+h3 {
+  color:#006A71;
+}
+
+h4 {
+  text-decoration: underline;
+}
+
+ol {
+  color: darkgreen;
+}
+
+ul {
+  color: darkblue;
+}
+
+hr {
+  background-color: black;
+  border-style: dotted;
+  height: 5px;
+}
+
+tr {
+  color:#7d4500;
+}
+
+table {
+  border-radius: 10px;
+  border-spacing: 5px;
+}
+
+cite {
+  color:#78001a;
+}
+
+.personal {
+  background-color: lightyellow;
+}
+
+.professional {
+  background-color: lightblue;
+}
+
+.shadow {
+  box-shadow: 0 4px 20px 0 rgba(0,0,0,0.4),
+              0 20px 30px 0 rgba(0,0,0,0.19);
+
+}
+
+.rounded {
+  padding: 3px;
+  border-radius: 20px;
+  height: 250px;
+  border-color: black;
+}
+
+.redline {
+  background-color: red;
+}
+
+.caps {
+  text-transform: uppercase;
+}
+
+.highlight {
+  background-color: yellow;
+  background-size: contain;
+}
+
+.screenshot {
+  padding: 5px;
+  border: 1px solid #ddd;
+  width:200px;
+}
+
+#myself {
+  font-style: italic;
+  color: gray;
+}
